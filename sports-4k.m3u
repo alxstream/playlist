@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://bit.ly/sports4kuhd or https://7pal.short.gy/sports4kuhd
+#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://bit.ly/alxstream or https://7pal.short.gy/alxstream
 #EXTM3U Join Discord server: https://7pal.short.gy/discord
 #EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
 --- 📺 Sports | 4K UHD
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",SkySports_MainEventUHD
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro_Sports-UHD
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro Sports UHD
 https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN4k
 https://7pal.short.gy/bein-uhd
@@ -199,5 +199,3 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
 https://7pal.short.gy/event4
-
-
