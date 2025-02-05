@@ -198,7 +198,8 @@ https://7pal.short.gy/spersprb
 https://7pal.short.gy/sperspgf
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="Sports | World", Supersport_Tennis-FHD
 https://7pal.short.gy/spersptns
-
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
+https://7pal.short.gy/zigosfhd
 
 --- 📺 Sports | Events
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
