@@ -5,18 +5,6 @@
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
---- 📺 Sports | Events
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/Xf0Kbh0.png" group-title="Super Bowl LIX", Event 1: Super Bowl LIX - UHD1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="Sky.Sports.Ultra.HD.1.uk" tvg-logo="https://i.imgur.com/Xf0Kbh0.png" group-title="Super Bowl LIX", Event 2: Super Bowl LIX - UHD2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/Xf0Kbh0.png" group-title="Super Bowl LIX", Event 3: Super Bowl LIX - FHD1
-https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/Xf0Kbh0.png" group-title="Super Bowl LIX", Event 4: Super Bowl LIX - FHD2
-https://7pal.short.gy/event4
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/Xf0Kbh0.png" group-title="Super Bowl LIX", Event 5: Super Bowl LIX - FHD3
-https://7pal.short.gy/event5
-
 --- 📺 Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
