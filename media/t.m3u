@@ -1,1 +1,13 @@
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:ec9a8078cdc1317b24e587f97f1eb031
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://pixvid.org/images/2025/01/16/Astro-Sports-uhd.png" group-title="UHD | 4K",MY: Astro Sports1 UHD
+https://cdn4.tvplayhome.lt/live/eds2/VIP3/GO3_LIVE_DASH_AVC/VIP3.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://pixvid.org/images/2025/01/16/Astro-Sports-uhd.png" group-title="UHD | 4K",MY: Astro Sports UHD
+license_type=com.widevine.alpha
+license_key=ad206bf45075406da1ccfd824b4667c9:9ddaf9c8b38abe57defaad198014d304
+https://zxyzcdw.com/output/manifest.mpd
