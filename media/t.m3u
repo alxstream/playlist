@@ -2,6 +2,12 @@
 
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://pixvid.org/images/2025/01/16/Astro-Sports-uhd.png" group-title="UHD | 4K",MY: G3 1
 license_type=com.widevine.alpha
+license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://pixvid.org/images/2025/01/16/Astro-Sports-uhd.png" group-title="UHD | 4K",MY: G3 1
+license_type=com.widevine.alpha
 license_key=4f7cb88f8eab52fbb84c601907d37e68:37b4f5ad8b90c1ed17cacd1125a2ce84
 https://dfwlive-v1-c1p3-sponsored.live.cf.dtvcdn.com/Content/HLS.cps/Live/channel(ACCDN-1122.dfw.1080)/index.m3u8
 
