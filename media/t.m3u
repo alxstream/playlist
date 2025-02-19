@@ -20,7 +20,7 @@ https://cdnlb.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
 
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-name="MY: Astro Sports UHD" tvg-logo="https://pixvid.org/images/2025/01/16/Astro-Sports-uhd.png" group-title="UHD | 4K",MY: G3 1
 license_type=com.widevine.alpha
-license_key=07454bafd70413ab57a3eb25de2c79c3
+license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
 https://cdnlb.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 
 
@@ -39,3 +39,11 @@ https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-d
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 #EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="VOOT" group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",DAZNF1
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+#EXTINF:-1 tvg-id="CHANNEL-EPG-ID" tvg-name="Colors HD" group-title="VOOT" group-logo="GROUP LOGO" tvg-logo="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",AMZ AU
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
